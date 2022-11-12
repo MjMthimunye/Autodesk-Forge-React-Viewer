@@ -1,5 +1,5 @@
-# Autodesk Forge React Viewer created using Autodesk Platform Services and React
-MJ Mthimunye
+## Autodesk Forge React Viewer created using Autodesk Platform Services and React
+Author: MJ Mthimunye
 
 # Getting Started with Create React App
 
